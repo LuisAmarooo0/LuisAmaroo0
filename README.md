@@ -2,7 +2,11 @@
 
 
 <div> 
-<img class="sesi-logo" src="sesi-logo-2.png" /><br>
+<a href="https://developer.mozilla.org">
+  <img
+    src="https://developer.mozilla.org/static/img/favicon144.png"
+    alt="Visit the MDN site" />
+</a>
 
 
 
